@@ -72,14 +72,6 @@ I am a passionate **B.Tech Computer Science and Engineering** student currently 
 - Hosted and deployed live via GitHub Pages with a clean and intuitive user interface.
 - **Tech Stack:** JavaScript, HTML5, CSS3, GitHub Pages
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymondmaijo&show_icons=true&theme=radical&hide_border=true" alt="Raymond's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondmaijo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
