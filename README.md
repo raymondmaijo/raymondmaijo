@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raymondmaijo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondmaijo)
 [![GitHub](https://img.shields.io/badge/GitHub-raymondmaijo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raymondmaijo)
 [![Email](https://img.shields.io/badge/Email-raymondmaijo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raymondmaijo@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208590527947-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918590527947)
 
 ---
 
