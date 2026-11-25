@@ -20,7 +20,7 @@ I am a passionate **B.Tech Computer Science and Engineering** student currently 
 
 | Degree / Certification | Institution / Board | Details | Year / Expected |
 | :--- | :--- | :--- | :--- |
-| **B.Tech in Computer Science & Engineering** | Ongoing (2nd Year) | **CGPA: 9.2 / 10** | Expected April 2029 |
+| **B.Tech in Computer Science & Engineering** | Ongoing (2nd Year) | **CGPA: 9.1 / 10** | Expected April 2029 |
 | **Class XII (PCM)** | ISC Examination | **Score: 95.5%** | Completed |
 | **Class X** | CISCE Examination | **Score: 95.0%** | Completed |
 
